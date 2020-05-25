@@ -1,0 +1,72 @@
+{
+  "project_info": {
+    "project_number": "103293639437",
+    "firebase_url": "https://park-it-capstone.firebaseio.com",
+    "project_id": "park-it-capstone",
+    "storage_bucket": "park-it-capstone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103293639437:android:23b5cc0395f027f7c8ee44",
+        "android_client_info": {
+          "package_name": "com.example.park_it_project_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103293639437-hsm5mjckse4oo5bovhml5h7bi7rlvsa8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.park_it_project_v1",
+            "certificate_hash": "d782c983a5ff2b58f756e51c6532366179511ab1"
+          }
+        },
+        {
+          "client_id": "103293639437-4odj64bap87190kqvrsoe51iriil5pbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.park_it_project_v1",
+            "certificate_hash": "f1b9f39a53932c78601bf81b616635ab6f9755b2"
+          }
+        },
+        {
+          "client_id": "103293639437-b0o2r2oii3qgn71687mujlu58gi29t19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.park_it_project_v1",
+            "certificate_hash": "951286d4654e04a1c28bd6391989308f4695f694"
+          }
+        },
+        {
+          "client_id": "103293639437-epg56f3bm2ognhn1jtt1rafaub7cobfi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.park_it_project_v1",
+            "certificate_hash": "d7b4f92820d4846c76867cdaa1f6d58e14a1920c"
+          }
+        },
+        {
+          "client_id": "103293639437-25e5lsju5h4bctjap7i45stgoct10026.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB4thCIP-ASnWrk4Fzl7qSsCZNxg6Bmoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103293639437-25e5lsju5h4bctjap7i45stgoct10026.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

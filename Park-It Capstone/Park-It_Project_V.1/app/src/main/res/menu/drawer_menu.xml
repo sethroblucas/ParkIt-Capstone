@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home"
+            />
+        <item
+            android:id="@+id/history"
+            android:icon="@drawable/ic_history_black_24dp"
+            android:title="Parking History" />
+
+        <item
+            android:id="@+id/spot"
+            android:icon="@drawable/ic_local_parking_black_24dp"
+            android:title="My Spots" />
+
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/ic_dvr_black_24dp"
+            android:title="About" />
+
+        <item
+            android:id="@+id/support"
+            android:icon="@drawable/ic_help_black_24dp"
+            android:title="Support/FAQ" />
+
+        <item
+            android:id="@+id/settings"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="Settings" />
+
+        <item
+            android:id="@+id/social"
+            android:icon="@drawable/ic_social_24dp"
+            android:title="Social" />
+
+
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_clear_black_24dp"
+            android:title="Logout" />
+
+    </group>
+</menu>
